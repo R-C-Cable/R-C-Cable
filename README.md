@@ -3,6 +3,7 @@
   Exploring the software development world, and solving the intriguing challenges it presents. 
   
 - 🌱 I’m currently learning ...
+- -Java
   -C++ and security with unmanaged languages
   -React and JavaScript
   -The Software Development Process and UML
