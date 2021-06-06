@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-C-Cable
 - 👀 I’m interested in ...
-  Exploring the software development world, and solving the intriguing challenges it presents. 
+  Becoming a Web Developer. Although, I am interested in exploring Software Engineering in general.
   
 - 🌱 I’m currently learning ...
 - -Java
