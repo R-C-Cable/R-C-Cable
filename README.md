@@ -10,7 +10,10 @@
 
 - 📫 How to reach me ...
   Message me over LinkedIn:
+  
   https://www.linkedin.com/in/robert-cable-b88593ab/
+  
+  Or by https://r-c-cable.github.io/portfolio/#Contact
   
 <!---
 R-C-Cable/R-C-Cable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
